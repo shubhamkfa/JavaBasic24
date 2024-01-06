@@ -31,7 +31,12 @@ public class DataType {
         System.out.println(bf);
 
 
+        //STring - string is not a data type its a pre-defined class in java
+        //Sequence of character can be stored into string
 
+        String s = "This is sample text in string";
+
+        System.out.println(s);
 
     }
 
