@@ -24,17 +24,26 @@ public class OperatorsInJava {
 //6.Increment Operator ++
         int i=10;
 
-//++i; // Pre increment  1 + 10 =11
-        System.out.println(++i);
+    //++i; // Pre increment  1 + 10 =11
+        /* System.out.println(++i);
         System.out.println(++i);
         System.out.println(i);
 
-//i++;  //i=10 ie i+a , 10+1 =11 //Post increment
+    //i++;  //i=10 ie i+a , 10+1 =11 //Post increment
         //i++;
 
         System.out.println(i++);
         System.out.println(i++);
-        System.out.println(i);
+        System.out.println(i); */
+
+
+//Decrement Operator
+        //post decrement
+
+        //System.out.println(i--);
+
+        //pre decrement
+        System.out.println(--i);
     }
 
 }
