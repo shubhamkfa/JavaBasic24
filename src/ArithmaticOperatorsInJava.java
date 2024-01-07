@@ -1,4 +1,4 @@
-public class OperatorsInJava {
+public class ArithmaticOperatorsInJava{
 
     public static void main (String[]args){
         //Operators are just symbols used to perform operations on the provided data.
