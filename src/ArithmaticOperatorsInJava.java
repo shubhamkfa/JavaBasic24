@@ -44,6 +44,10 @@ public class OperatorsInJava {
 
         //pre decrement
         System.out.println(--i);
+
+
+
+
     }
 
 }
