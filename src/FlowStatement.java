@@ -8,12 +8,12 @@ public class FlowStatement {
 
 //Selective Statement If
 //if
-    int a=7, b=10;
+  /*  int a=7, b=10 ;
     /*if (a>b) {
 
         System.out.println("Statement is true");
     }
-*/
+        /*
     if (a<b){
         System.out.println("A is less than b");
 //if else
@@ -21,8 +21,27 @@ public class FlowStatement {
 
         System.out.println("A is greater than b");
     }
+        */
+//if ...else if...else
+    /*
+    int a=12,b=43,c=21,d=3;
 
+    if (b<d){
+        System.out.println( "This statement is correct");
 
+    }else if (a<d){
+
+        System.out.println("A is less than b ");
+    } else if (c<d) {
+        System.out.println("c is greater than d");
+
+    }else {
+        System.out.println("None of the statement is true");
+    }
+    */
+
+//Switch
+        int a=12,
 
 
 
