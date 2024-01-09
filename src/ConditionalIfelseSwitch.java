@@ -107,6 +107,14 @@ Calculate the result according to the operation given and display it to the user
         System.out.println(a%b);
 
 */
+
+
+
+
+
+/*
+        //Homework 2-Ask the user to enter the number of the month & print the name of the month.
+        // For eg - For ‘1’ print ‘January’, ‘2’ print ‘February’ & so on.
         Scanner sc=new Scanner(System.in);
         int Month=sc.nextInt();
 
@@ -128,7 +136,7 @@ Calculate the result according to the operation given and display it to the user
 
         }
 
-
+*/
 
 
     }
