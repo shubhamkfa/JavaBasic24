@@ -21,6 +21,7 @@ public class IterativeStatementWhileloop {
         int a =5,b=8;
         while (a<b){
             System.out.println("True STatement");
+            break;
 
         }
     }
