@@ -1,3 +1,4 @@
+import java.util.*;
 public class IterativeStatementWhileloop {
     public static void main(String[]args){
 
@@ -18,11 +19,30 @@ public class IterativeStatementWhileloop {
 //                System.out.println(i+" ");
 //            }
 
-        int a =5,b=8;
-        while (a<b){
-            System.out.println("True STatement");
-            break;
+//        int a =5,b=8;
+//        while (a<b){
+//            System.out.println("True STatement");
+//            break;
+//
+//        }
+//        int i=0;
+//        do{
+//            System.out.println(i);
+//            i=i+1;
+//        }while(i<10);
 
-        }
+
+       // Que-1  #print thw Sum of n Natural Number
+        Scanner sc= new Scanner (System.in);
+        int n = sc.nextInt();
+        int sum=0;
+
+        for (int i=0; i<=n; i++){
+            sum=sum + 1;
+
+        } System.out.print(sum);
+
+
+
     }
 }
