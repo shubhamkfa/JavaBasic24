@@ -100,13 +100,24 @@ public class IterativeStatementWhileloop {
         //For Loop By Arun
 
         //For loop is mostly popular and useful
-
+/*
         for (int i=1;i<6;i++){
+            if (i==3){
+                break;
+            }
+
 
             System.out.println(i);
         }
 
-
+*/
+            //Continue Value of currect iteration will skip
+        for (int i=1; i<5; i++){
+            if (i==3){
+                continue;
+            }
+            System.out.println(i);
+        }
     }
 }
 
