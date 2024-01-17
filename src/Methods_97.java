@@ -8,7 +8,7 @@ public class Methods_97 {
         System.out.println(c + " Is the answer ");
 
         method2();
-        Method4();
+
     }
 
     public static void method2(){
