@@ -1,10 +1,17 @@
-public class Question1NestedLoop_SolidRectangle {
-//Nested Loop - Print Pattern Solid Rectangles 9/10
-    //*****
-    public static void main(String[]args){
-        for(int i=1;i<=9;i++){
+import java.util.Scanner;
 
-            for(int j=1;j<=10;j++){
+
+
+public class Question1NestedLoop_SolidRectangle {
+    public static void main(String[]args){
+    Scanner sc = new Scanner(System.in);
+    int n=sc.nextInt();
+    int m=sc.nextInt();
+
+
+        for(int i=1;i<=n;i++){
+
+            for(int j=1;j<=m;j++){
                 System.out.print("*"+" ");
             }System.out.println();
         }
