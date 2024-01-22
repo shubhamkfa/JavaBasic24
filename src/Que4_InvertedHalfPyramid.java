@@ -14,5 +14,15 @@ public class Que4_InvertedHalfPyramid {
         }
 
 
+//        int m=4;
+//        for(int i=m; i>=1; i--){
+//
+//            for(int j=1;j<=1;j++){
+//                System.out.print(" * ");
+//            }
+//            System.out.println();
+//        }
+
+
     }
 }
